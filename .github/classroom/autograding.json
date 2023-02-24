@@ -7,7 +7,7 @@
       "input": "I\r\n5\r\n4 -1 4 1 1",
       "output": "3",
       "comparison": "included",
-      "timeout": 2,
+      "timeout": 1,
       "points": 1
     },
     {
@@ -17,7 +17,7 @@
       "input": "I\r\n5\r\n-1 0 4 0 3",
       "output": "4",
       "comparison": "included",
-      "timeout": 2,
+      "timeout": 1,
       "points": 1
     },
     {
@@ -27,7 +27,7 @@
       "input": "I\r\n10\r\n9 7 5 5 2 9 9 9 2 -1",
       "output": "4",
       "comparison": "included",
-      "timeout": 2,
+      "timeout": 1,
       "points": 1
     },
     {
@@ -37,7 +37,7 @@
       "input": "F\r\n05",
       "output": "8",
       "comparison": "included",
-      "timeout": 2,
+      "timeout": 1,
       "points": 1
     },
     {
@@ -57,7 +57,7 @@
       "input": "F\r\n16",
       "output": "18",
       "comparison": "included",
-      "timeout": 4,
+      "timeout": 2,
       "points": 1
     },
     {
@@ -67,7 +67,7 @@
       "input": "F\r\n18",
       "output": "1267",
       "comparison": "included",
-      "timeout": 4,
+      "timeout": 2,
       "points": 1
     },
     {
@@ -77,7 +77,7 @@
       "input": "F\r\n21",
       "output": "100000",
       "comparison": "included",
-      "timeout": 4,
+      "timeout": 2,
       "points": 1
     },
     {
